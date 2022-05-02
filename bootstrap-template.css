@@ -1,0 +1,50 @@
+/*This is the CSS page for our final Bootstrap template.*/
+
+.section {
+	text-align: left;
+}
+img {
+	border: 2px solid black;
+}
+.accordion-button:not(.collapsed), .accordion-button:focus {
+	font-family: Poppins, san;
+	background-color: #2e294e;
+	color: whitesmoke;
+	margin-bottom: 10px;
+}
+.footer p {
+	background-color: #2e294e;
+	text-align: center;
+	font-size: 15px;
+	font-family: Poppins, san;
+	margin-bottom: 10px;
+	color: whitesmoke;
+}
+
+.dek {
+	font-style: italic;
+	font-family: Poppins, san;
+}
+
+.byline {
+	font-family: Poppins, san;
+}
+
+.src {
+	width: 300px;
+	height: 300 px;
+}
+
+h3 {
+	font-family: Poppins, san;
+	font-weight: 2000;
+}
+
+p {
+	font-family: Poppins, san;
+}
+
+h4 {
+	font-family: Poppins, san;
+	font-weight: 2000;
+}
